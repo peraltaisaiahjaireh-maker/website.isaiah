@@ -1,0 +1,28 @@
+{
+  "name": "peralta.com",
+  "version": "1.0.0",
+  "description": "Website",
+  "keywords": [
+    "website",
+    "isaiah",
+    "practice26-27"
+  ],
+  "homepage": "https://github.com/peraltaisaiahjaireh-maker/website.isaiah#readme",
+  "bugs": {
+    "url": "https://github.com/peraltaisaiahjaireh-maker/website.isaiah/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peraltaisaiahjaireh-maker/website.isaiah.git"
+  },
+  "license": "ISC",
+  "author": "Isaiah Jaireh S. Peralta",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
